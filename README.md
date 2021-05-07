@@ -49,7 +49,7 @@ _¿Qué es el Almacenamiento Remoto?_
 _¿Qué es la Realidad Mixta?_
 - La realidad mixta es una combinación del mundo físico y el mundo digital. En la realidad mixta, la información digital se representa con hologramas (objetos formados por luz y sonido) que aparecen en el espacio que le rodea. Con el uso de inteligencia artificial, estos hologramas responden a comandos e interactúan con superficies reales en tiempo real para lograr una experiencia más natural e intuitiva. Resumiendo, la realidad mixta permite dar vida a su trabajo y a sus datos cuando y donde lo necesita.
 
-![image](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2018/01/realidad-virtual-mixta-preguntas-respuestas_3.jpg)
+![image](https://img.blogs.es/anexom/wp-content/uploads/2017/04/realidad-virtual-slide.jpg)
 
 _¿Qué es una Telemetria?_
 - La palabra telemetría procede de las palabras griegas τῆlε (tele), que quiere decir a distancia, y la palabra μετρον (metron), que quiere decir medida. La telemetría facilita la monitorización a distancia de procesos o equipos, el envío de alertas o alarmas a un centro de control o plataforma de visualización en internet, con el fin de que el funcionamiento sea seguro y eficiente.
