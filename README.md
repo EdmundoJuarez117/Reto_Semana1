@@ -25,9 +25,23 @@ En la ilustración siguiente se muestran los servicios que pueden ejecutarse en 
 
 ![image](https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas-expanded.png#lightbox)
 
+_¿Qué es una nube publica?_
+- La nube pública es el servicio más utilizado por empresas e individuos. Normalmente sirve para cubrir necesidades de almacenamiento y correo electrónico. Tiene la característica de compartir hardware con otras cuentas y ser escalable de manera casi ilimitada. Suele ser la opción más económica.
+
+_¿Qué es una nube privada?_
+- La nube privada suele estar gestionada por un proveedor pero con hardware dedicado a quien adquiere el servicio. Puede cubrir necesidades específicas y es ideal para organizaciones que requieren mantener mayor control sobre sus datos. Es más cara de mantener y es utilizada por grandes empresas.
+
+_¿Qué es una nube híbrida?_
+- Combina los usos y aplicaciones de las dos nubes anteriores. Sus costos pueden “personalizarse” de acuerdo a los recursos utilizados por la organización. Puede ayudar a reducir costos para empresas medianas y grandes.
+
+![image](https://i.ytimg.com/vi/nZ8e8R_Wsio/maxresdefault.jpg)
+
+_¿Qué es la Inteligencia Artificial?_
+- La inteligencia artificial (IA) hace posible que las máquinas aprendan de la experiencia, se ajusten a nuevas aportaciones y realicen tareas como seres humanos. La mayoría de los ejemplos de inteligencia artificial sobre los que oye hablar hoy día – desde computadoras que juegan ajedrez hasta automóviles de conducción autónoma – recurren mayormente al aprendizaje profundo y al procesamiento del lenguaje natural. Empleando estas tecnologías, las computadoras pueden ser entrenadas para realizar tareas específicas procesando grandes cantidades de datos y reconociendo patrones en los datos. 
+![image](https://get.pxhere.com/photo/artificial-intelligence-machine-learning-virtual-brain-mind-pc-smart-ai-assistant-development-science-information-data-cyborg-laptop-computer-future-technology-blue-font-diagram-circle-1584997.jpg)
+
 _¿Qué es el Almacenamiento Remoto?_
 - Servicio de administracion de datos utilizado para migrar archivos de uso poco frecuente que se almacenan localmente a una ubicación de almacenamiento remota. 
-
 ![image](https://get.pxhere.com/photo/seo-data-big-data-analytics-site-database-analysis-data-center-statistics-research-data-analytics-data-analysis-financial-search-processing-image-icon-banner-business-center-chart-cloud-compute-computing-concept-design-digital-element-file-filter-flat-folder-information-internet-market-media-network-online-page-paper-process-report-product-human-behavior-communication-standing-business-conversation-public-speaking-businessperson-technology-white-collar-worker-job-organization-font-collaboration-management-illustration-brand-1443941.jpg)
 
 ## **GitHub**
@@ -35,5 +49,4 @@ _¿Qué es el Almacenamiento Remoto?_
 _¿Qué es un Repositorio?_
 - Los repositorios son instalaciones virtuales donde se depositan los resultados de la investigación científica.
 Según su ámbito y objeto, pueden ser temáticos multidisplinarios, de objetos de aprendizaje o institucionales.. 
-
 ![image](https://get.pxhere.com/photo/business-forex-stock-brokerage-chart-trading-finance-candle-digital-exchange-stick-market-graph-investment-design-data-financial-growth-money-cartoon-trade-economy-analysis-profit-lose-table-human-body-gesture-sharing-font-line-parallel-output-device-technology-illustration-graphics-rectangle-job-art-electric-blue-conversation-logo-diagram-sitting-chair-graphic-design-brand-personal-computer-clip-art-Computer-networking-animation-computer-symbol-collaboration-1638694.jpg)
