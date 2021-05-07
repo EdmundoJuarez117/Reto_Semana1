@@ -39,7 +39,7 @@ _¿Qué es una nube híbrida?_
 _¿Qué es la Inteligencia Artificial?_
 - La inteligencia artificial (IA) hace posible que las máquinas aprendan de la experiencia, se ajusten a nuevas aportaciones y realicen tareas como seres humanos. La mayoría de los ejemplos de inteligencia artificial sobre los que oye hablar hoy día – desde computadoras que juegan ajedrez hasta automóviles de conducción autónoma – recurren mayormente al aprendizaje profundo y al procesamiento del lenguaje natural. Empleando estas tecnologías, las computadoras pueden ser entrenadas para realizar tareas específicas procesando grandes cantidades de datos y reconociendo patrones en los datos. 
 
-![image](https://image.freepik.com/free-vector/abstract-artificial-intelligence-background_23-2147738874.jpg)
+![image](https://i.pinimg.com/originals/72/64/ca/7264ca3d31743296ffc271e34264295b.jpg)
 
 _¿Qué es el Almacenamiento Remoto?_
 - Servicio de administracion de datos utilizado para migrar archivos de uso poco frecuente que se almacenan localmente a una ubicación de almacenamiento remota. 
