@@ -68,3 +68,14 @@ _¿Qué es un Repositorio?_
 Según su ámbito y objeto, pueden ser temáticos multidisplinarios, de objetos de aprendizaje o institucionales.. 
 
 ![image](https://repository-images.githubusercontent.com/189103252/74400400-839c-11e9-9f25-b09075bf1aa0)
+
+### **Índices**
+
+Algunos índices de la información recabada:
+
+- [Base de datos](https://www.oracle.com/mx/database/what-is-database/)
+- [Nube pública, privada e híbrida](https://www.ikusiredes.com/blogs/que-es-la-nube-publica-privada-e-hibrida/)
+- [Realidad Mixta](https://azure.microsoft.com/es-mx/topic/mixed-reality/)
+- [Inteligencia Artificial](https://www.sas.com/es_mx/insights/analytics/what-is-artificial-intelligence.html)
+- [Repositorio](http://www.bibliotecas.udec.cl/?q=content/%C2%BFqu%C3%A9-es-un-repositorio)
+- [Telemetría](https://telemetrik.co/telemetria-que-es-aplicaciones-casos-de-uso/)
