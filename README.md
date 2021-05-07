@@ -38,15 +38,18 @@ _¿Qué es una nube híbrida?_
 
 _¿Qué es la Inteligencia Artificial?_
 - La inteligencia artificial (IA) hace posible que las máquinas aprendan de la experiencia, se ajusten a nuevas aportaciones y realicen tareas como seres humanos. La mayoría de los ejemplos de inteligencia artificial sobre los que oye hablar hoy día – desde computadoras que juegan ajedrez hasta automóviles de conducción autónoma – recurren mayormente al aprendizaje profundo y al procesamiento del lenguaje natural. Empleando estas tecnologías, las computadoras pueden ser entrenadas para realizar tareas específicas procesando grandes cantidades de datos y reconociendo patrones en los datos. 
-![image](https://get.pxhere.com/photo/artificial-intelligence-machine-learning-virtual-brain-mind-pc-smart-ai-assistant-development-science-information-data-cyborg-laptop-computer-future-technology-blue-font-diagram-circle-1584997.jpg)
+
+![image](https://image.freepik.com/free-vector/abstract-artificial-intelligence-background_23-2147738874.jpg)
 
 _¿Qué es el Almacenamiento Remoto?_
 - Servicio de administracion de datos utilizado para migrar archivos de uso poco frecuente que se almacenan localmente a una ubicación de almacenamiento remota. 
-![image](https://get.pxhere.com/photo/seo-data-big-data-analytics-site-database-analysis-data-center-statistics-research-data-analytics-data-analysis-financial-search-processing-image-icon-banner-business-center-chart-cloud-compute-computing-concept-design-digital-element-file-filter-flat-folder-information-internet-market-media-network-online-page-paper-process-report-product-human-behavior-communication-standing-business-conversation-public-speaking-businessperson-technology-white-collar-worker-job-organization-font-collaboration-management-illustration-brand-1443941.jpg)
+
+![image](https://swiftsystems.com/guides-tips/wp-content/uploads/2019/06/cloud-computing-image.jpg)
 
 ## **GitHub**
 
 _¿Qué es un Repositorio?_
 - Los repositorios son instalaciones virtuales donde se depositan los resultados de la investigación científica.
 Según su ámbito y objeto, pueden ser temáticos multidisplinarios, de objetos de aprendizaje o institucionales.. 
-![image](https://get.pxhere.com/photo/business-forex-stock-brokerage-chart-trading-finance-candle-digital-exchange-stick-market-graph-investment-design-data-financial-growth-money-cartoon-trade-economy-analysis-profit-lose-table-human-body-gesture-sharing-font-line-parallel-output-device-technology-illustration-graphics-rectangle-job-art-electric-blue-conversation-logo-diagram-sitting-chair-graphic-design-brand-personal-computer-clip-art-Computer-networking-animation-computer-symbol-collaboration-1638694.jpg)
+
+![image](https://repository-images.githubusercontent.com/189103252/74400400-839c-11e9-9f25-b09075bf1aa0)
