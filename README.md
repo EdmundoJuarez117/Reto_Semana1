@@ -46,6 +46,21 @@ _¿Qué es el Almacenamiento Remoto?_
 
 ![image](https://swiftsystems.com/guides-tips/wp-content/uploads/2019/06/cloud-computing-image.jpg)
 
+_¿Qué es la Realidad Mixta?_
+- La realidad mixta es una combinación del mundo físico y el mundo digital. En la realidad mixta, la información digital se representa con hologramas (objetos formados por luz y sonido) que aparecen en el espacio que le rodea. Con el uso de inteligencia artificial, estos hologramas responden a comandos e interactúan con superficies reales en tiempo real para lograr una experiencia más natural e intuitiva. Resumiendo, la realidad mixta permite dar vida a su trabajo y a sus datos cuando y donde lo necesita.
+
+![image](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2018/01/realidad-virtual-mixta-preguntas-respuestas_3.jpg)
+
+_¿Qué es una Telemetria?_
+- La palabra telemetría procede de las palabras griegas τῆlε (tele), que quiere decir a distancia, y la palabra μετρον (metron), que quiere decir medida. La telemetría facilita la monitorización a distancia de procesos o equipos, el envío de alertas o alarmas a un centro de control o plataforma de visualización en internet, con el fin de que el funcionamiento sea seguro y eficiente.
+
+![image](https://media.istockphoto.com/vectors/landing-page-iot-internet-of-things-devices-and-connectivity-concepts-vector-id1137736663?k=6&m=1137736663&s=170667a&w=0&h=xlXQdRIOVIxFLAIIoYcsB-nw80LJzOzLa2NDgoT1sq8=)
+
+_¿Qué es una Base de Datos?_
+- Una base de datos es una colección organizada de información estructurada, o datos, típicamente almacenados electrónicamente en un sistema de computadora. Una base de datos es usualmente controlada por un sistema de gestión de base de datos (DBMS). En conjunto, los datos y el DBMS, junto con las aplicaciones que están asociados con ellos, se conocen como un sistema de base de datos, que a menudo se reducen a solo base de datos. 
+
+![image](https://www.wnpower.com/blog/wp-content/uploads/sites/3/2020/03/que-es-mysql-bases-datos.png)
+
 ## **GitHub**
 
 _¿Qué es un Repositorio?_
