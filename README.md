@@ -8,6 +8,7 @@
 
 _¿Qué es azure?_
 - Es una plataforma de informática en la nube con un conjunto de servicios que se amplía continuamente para ayudarle a crear soluciones que satisfagan los objetivos empresariales. Los servicios de Azure van desde servicios web sencillos para hospedar la presencia empresarial en la nube hasta la ejecución de equipos totalmente virtualizados para ejecutar soluciones de software personalizadas.
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simplilearn.com%2Ftutorials%2Fazure-tutorial%2Fwhat-is-azure&psig=AOvVaw2pGKy6cub-T0_VvpYEu-LX&ust=1620581698022000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDlpbbPuvACFQAAAAAdAAAAABAO)
 
 _¿Qué es IaaS?_
 - Infraestructura como servicio (IaaS)
