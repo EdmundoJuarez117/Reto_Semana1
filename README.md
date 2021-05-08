@@ -88,9 +88,8 @@ _Commandos Basicos_
 - Git push [alias] [branch]
     Transmita las confirmaciones de la rama local a la rama del repositorio remoto.
 ![image](https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2017/04/comandos-de-git-1280x720.png)
-### **Índices**
+### **Índice**
 
-Algunos índices de la información recabada:
 - [Azure](https://azure.microsoft.com/es-es/overview/what-is-azure/)
 - [IaaS](https://azure.microsoft.com/es-mx/overview/what-is-iaas/)
 - [PaaS](https://azure.microsoft.com/es-mx/overview/what-is-paas/)
