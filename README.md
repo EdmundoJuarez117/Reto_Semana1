@@ -9,7 +9,7 @@
 _¿Qué es azure?_
 - Es una plataforma de informática en la nube con un conjunto de servicios que se amplía continuamente para ayudarle a crear soluciones que satisfagan los objetivos empresariales. Los servicios de Azure van desde servicios web sencillos para hospedar la presencia empresarial en la nube hasta la ejecución de equipos totalmente virtualizados para ejecutar soluciones de software personalizadas.
 
-_¿Qué es IASS?_
+_¿Qué es IaaS?_
 - Infraestructura como servicio (IaaS)
 Este modelo de servicio en la nube es el más parecido a la administración de servidores físicos. Un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es responsabilidad del inquilino de nube. Por ejemplo, las máquinas virtuales de Azure son dispositivos de proceso virtuales totalmente operativos que se ejecutan en centros de datos de Microsoft. Una ventaja de este modelo de servicio en la nube es la rápida implementación de nuevos dispositivos de proceso. La configuración de una máquina virtual nueva es considerablemente más rápida que la obtención, instalación y configuración de un servidor físico.
 
@@ -69,13 +69,36 @@ Según su ámbito y objeto, pueden ser temáticos multidisplinarios, de objetos 
 
 ![image](https://repository-images.githubusercontent.com/189103252/74400400-839c-11e9-9f25-b09075bf1aa0)
 
+_Commandos Basicos_
+- Git init
+    Inicializar un directorio existente como repositorio de Git.
+
+- Git clone [url]
+    Recupere un repositorio completo de una ubicación alojada a través de una URL.
+
+- Git status
+    Muestre los archivos modificados en el directorio de trabajo, preparados para su próxima confirmación.
+
+- Git add [file]
+    Agregue un archivo como se ve ahora a su próxima confirmación (etapa).
+
+- Git add [file]
+    Agregue un archivo como se ve ahora a su próxima confirmación (etapa).
+
+- Git push [alias] [branch]
+    Transmita las confirmaciones de la rama local a la rama del repositorio remoto.
+![image](https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2017/04/comandos-de-git-1280x720.png)
 ### **Índices**
 
 Algunos índices de la información recabada:
-
+- [Azure](https://azure.microsoft.com/es-es/overview/what-is-azure/)
+- [IaaS](https://azure.microsoft.com/es-mx/overview/what-is-iaas/)
+- [PaaS](https://azure.microsoft.com/es-mx/overview/what-is-paas/)
+- [SaaS](https://azure.microsoft.com/es-mx/overview/what-is-saas/)
 - [Base de datos](https://www.oracle.com/mx/database/what-is-database/)
 - [Nube pública, privada e híbrida](https://www.ikusiredes.com/blogs/que-es-la-nube-publica-privada-e-hibrida/)
 - [Realidad Mixta](https://azure.microsoft.com/es-mx/topic/mixed-reality/)
 - [Inteligencia Artificial](https://www.sas.com/es_mx/insights/analytics/what-is-artificial-intelligence.html)
 - [Repositorio](http://www.bibliotecas.udec.cl/?q=content/%C2%BFqu%C3%A9-es-un-repositorio)
 - [Telemetría](https://telemetrik.co/telemetria-que-es-aplicaciones-casos-de-uso/)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
